@@ -1,0 +1,5 @@
+To run this website:
+grunt serve
+
+the firebase website:
+https://crackling-fire-3852.firebaseio.com/
